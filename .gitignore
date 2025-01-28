@@ -1,0 +1,6 @@
+*.json
+old/*
+*.ds_store
+*.txt
+token.pickle
+__pycache__/*
